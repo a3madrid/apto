@@ -1,0 +1,54 @@
+<html>
+   <head>
+<style type="text/css">
+div#AD, div#ADHEAD, div#ADIMG, div#fdiv1146, div#adcreative, .adstyle1 {
+visibility:hidden;
+display:none;
+position:absolute;
+font-size:1px;
+text-align:left;
+height:1px;
+width:1px;
+top:0px;
+left:0px;
+}
+.noads {
+position:absolute;
+width:100%;
+top:0px;
+left:0px;
+background: /*Aquí colocar el color Y/O imagen de fondo de su página, si no usa colocar #FFFFFF */;
+}
+</style>
+
+
+      <title>Alquiler apartamentos Madrid</title>
+<meta name="description" content="ALQUILER APARTAMENTOS MADRID amueblados para estancias cortas, largas, puentes, fin de semana, vacaciones de verano. Visita la ciudad de la cultura.">
+<meta name="keywords" content="alquiler apartamento madrid vacaciones turismo amueblado">
+   </head>
+   <body background="background.gif" bgcolor="#000000" text="#000000" alink="#FF0000" vlink="#FF00FF" link="#0000FF">
+<form enctype="multipart/form-data" method="post" action="/cgi-bin/mailer">
+
+<table width="740" height="550" border="0" align="CENTER">
+   <tr>
+      <td>	
+<P ALIGN="CENTER"><FONT COLOR="BLUE" SIZE="+6"><U><B><FONT COLOR="#E7D79C" >Efectuar una consulta</FONT></B></U></FONT><p>
+	.............................................<FONT SIZE="4" COLOR="#E7D79C"><FONT SIZE="5" COLOR="#E7D79C"><B>Nombre<FONT COLOR="BLACK" >---..---------</FONT></B></FONT></FONT><input type="text" name="nombre" size="15" value="Su nombre"><p>
+		.............................................<FONT SIZE="4" COLOR="#E7D79C"><FONT SIZE="5" COLOR="#E7D79C"><B>Email*<FONT COLOR="BLACK" >--.....--</FONT></B></FONT></FONT><input type="text" name="FROM" size="40" value="Su email (obligatorio)"><p>
+	
+....................................<textarea name="SUBJECT" rows="6" cols="50">escriba aqui su consulta</textarea><p>
+
+............................................................................<colspan="2"><input type="submit" value="Enviar">&nbsp;<input type="reset" value="Borrar">
+
+<input type="hidden" name="TO" value="apartamento3@lycos.es">
+<input type="hidden" name="SUBJECT" value="consulta">
+<input type="hidden" name="GOTOURL" value="http://usuarios.lycos.es/apartamento3/enviado.shtml">
+<P ALIGN="CENTER"><img src="arrow.gif" width="67" height="39" border="0" alt="arrow.gif - 1412 Bytes"><FONT SIZE="+3" ><B><FONT COLOR="#FF9933" ><FONT SIZE="1" COLOR="BLACK">..........</FONT><a href="index.html"><B><I><FONT COLOR="#E7D79C" >atrás</FONT></I></B></a></FONT></B></FONT>
+</FORM>   
+<p>
+<script src="http://hit.tripod.lycos.es/tracker.js"></script>
+
+<script>LycosHit()</script>
+<noframes><iframe><noscript><xmp><pre>
+
+<NOEMBED>
